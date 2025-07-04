@@ -1,0 +1,12 @@
+com\example\springtest\repository\ProductRepository.class
+com\example\springtest\repository\UserRepository.class
+com\example\springtest\SpringTestApplication.class
+com\example\springtest\config\SecurityConfig.class
+com\example\springtest\controller\ProductController.class
+com\example\springtest\model\User.class
+com\example\springtest\model\Product.class
+com\example\springtest\service\UserService.class
+com\example\springtest\service\ProductServiceImpl.class
+com\example\springtest\service\ProductService.class
+com\example\springtest\controller\UserController.class
+com\example\springtest\service\UserServiceImpl.class
